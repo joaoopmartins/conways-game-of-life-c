@@ -1,0 +1,29 @@
+# Compiled executables
+*.exe
+game_of_life
+
+# Object files
+*.o
+*.obj
+
+# Build directories
+obj/
+build/
+bin/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.user
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini

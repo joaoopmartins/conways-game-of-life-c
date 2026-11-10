@@ -1,5 +1,13 @@
 # Conway's Game of Life (Simulation Engine in C)
 
+[![Language: C99](https://img.shields.io/badge/Language-C99-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C99)
+[![Compiler: GCC](https://img.shields.io/badge/Compiler-GCC-438440?logo=gnu&logoColor=white)](https://gcc.gnu.org/)
+[![Build: Make](https://img.shields.io/badge/Build-GNU%20Make-042E42?logo=gnu&logoColor=white)](https://www.gnu.org/software/make/)
+[![Environment: CLI](https://img.shields.io/badge/Environment-CLI%20%2F%20Terminal-4D4D4D?logo=gnometerminal&logoColor=white)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+---
+
 ## Academic Identification
 - **Institution:** Instituto Politécnico de Portalegre - Escola Superior de Tecnologia e Gestão (ESTG)
 - **Course:** CTeSP - Tecnologias e Programação de Sistemas de Informação
